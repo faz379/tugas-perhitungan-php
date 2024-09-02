@@ -28,7 +28,7 @@ echo "$a * $d = $perkalian2";
 
 echo "<br><br>Pembagian : <br>";
 echo "$a / $f = $pembagian1 <br>";
-echo ("$a / " . number_format($f, 2) . " = $pembagian1 <br>");
+echo ("$a / " . number_format($f, 1) . " = $pembagian1 <br>");
 echo "$a % $h = $pembagian3 <br>";
 echo "$a % $f = $pembagian4 <br>";
 echo "$a % $e = $pembagian5";
